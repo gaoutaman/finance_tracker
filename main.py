@@ -1,5 +1,5 @@
 def main():
-    print("Hello from budget-tracker-py!")
+    print("Hello from finance_tracker!")
 
 
 if __name__ == "__main__":
